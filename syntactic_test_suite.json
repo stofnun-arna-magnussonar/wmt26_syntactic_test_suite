@@ -1,0 +1,1727 @@
+[
+ {
+   "id": 1,
+   "construction": "pseudo_coordination",
+   "example": "What conference are you going to try and get into?"
+ },
+ {
+   "id": 2,
+   "construction": "pseudo-coordination",
+   "example": "Let's try and figure this out together."
+ },
+ {
+   "id": 3,
+   "construction": "pseudo_coordination",
+   "example": "I'm going to try and make this relationship work."
+ },
+ {
+   "id": 4,
+   "construction": "pseudo_coordination",
+   "example": "The two of us are going to try and sneak past the security guard."
+ },
+ {
+   "id": 5,
+   "construction": "pseudo_coordination",
+   "example": "She's going to try and find out where he went."
+ },
+ {
+   "id": 6,
+   "construction": "pseudo_coordination",
+   "example": "They're gonna try and move the couch by themselves."
+ },
+ {
+   "id": 7,
+   "construction": "pseudo_coordination",
+   "example": "If your soup tastes bland, try and add salt."
+ },
+ {
+   "id": 8,
+   "construction": "pseudo_coordination",
+   "example": "What did you try and do?"
+ },
+ {
+   "id": 9,
+   "construction": "pseudo_coordination",
+   "example": "I will try and finish the report on time, but I might not succeed."
+ },
+ {
+   "id": 10,
+   "construction": "pseudo_coordination",
+   "example": "Try and not be seen, so you can escape."
+ },
+ {
+   "id": 11,
+   "construction": "pseudo_coordination",
+   "example": "I suggest that he try and improve his grades."
+ },
+ {
+   "id": 12,
+   "construction": "pseudo_coordination",
+   "example": "Try and come to my party!"
+ },
+ {
+   "id": 13,
+   "construction": "pseudo_coordination",
+   "example": "It's important to try and be on time."
+ },
+ {
+   "id": 14,
+   "construction": "pseudo_coordination",
+   "example": "I will try and finish the homework."
+ },
+ {
+   "id": 15,
+   "construction": "pseudo_coordination",
+   "example": "I will buy a book to try and read it."
+ },
+ {
+   "id": 16,
+   "construction": "pseudo_coordination",
+   "example": "I will try and save more money this year."
+ },
+ {
+   "id": 17,
+   "construction": "pseudo_coordination",
+   "example": "I hope you try and win the race!"
+ },
+ {
+   "id": 18,
+   "construction": "pseudo_coordination",
+   "example": "All of us are going to try and get there by ten."
+ },
+ {
+   "id": 19,
+   "construction": "pseudo_coordination",
+   "example": "Can you try and hurry up?"
+ },
+ {
+   "id": 20,
+   "construction": "pseudo_coordination",
+   "example": "I'm gonna try and change the course of hip hop again."
+ },
+ {
+   "id": 21,
+   "construction": "applicatives",
+   "example": "Adam booked Anna a cab."
+ },
+ {
+   "id": 22,
+   "construction": "applicatives",
+   "example": "The baron scrambled me exactly three eggs."
+ },
+ {
+   "id": 23,
+   "construction": "applicatives",
+   "example": "I asked the bartender to fetch Anna a napkin."
+ },
+ {
+   "id": 24,
+   "construction": "applicatives",
+   "example": "I ordered the three cyclists a cup of coffee."
+ },
+ {
+   "id": 25,
+   "construction": "applicatives",
+   "example": "I asked my cousin to grill the children some hamburgers, but she said she couldn't be bothered."
+ },
+ {
+   "id": 26,
+   "construction": "applicatives",
+   "example": "I bought my mother a crossword book at the airport."
+ },
+ {
+   "id": 27,
+   "construction": "applicatives",
+   "example": "The boys' grandmother sang them a song."
+ },
+ {
+   "id": 28,
+   "construction": "applicatives",
+   "example": "My wife assembled us a nightstand this morning."
+ },
+ {
+   "id": 29,
+   "construction": "applicatives",
+   "example": "Could you find me my wallet?"
+ },
+ {
+   "id": 30,
+   "construction": "applicatives",
+   "example": "The maître d' had saved the emir a seat at the table."
+ },
+ {
+   "id": 31,
+   "construction": "applicatives",
+   "example": "My mother always chose me my clothes."
+ },
+ {
+   "id": 32,
+   "construction": "applicatives",
+   "example": "My grandfather carved me a spoon when I was eight years old."
+ },
+ {
+   "id": 33,
+   "construction": "applicatives",
+   "example": "Can you cook me some dinner?"
+ },
+ {
+   "id": 34,
+   "construction": "applicatives",
+   "example": "Alexander tailored me a yellow jacket last year."
+ },
+ {
+   "id": 35,
+   "construction": "applicatives",
+   "example": "Helga rented her co-workers a cabin for the weekend."
+ },
+ {
+   "id": 36,
+   "construction": "applicatives",
+   "example": "Broddi refused to leave his daughter-in-law the last pizza slice."
+ },
+ {
+   "id": 37,
+   "construction": "applicatives",
+   "example": "Andrea played the crowd a couple of songs on the sitar."
+ },
+ {
+   "id": 38,
+   "construction": "applicatives",
+   "example": "The sad old man opened us the gate before we knew he knew we had arrived."
+ },
+ {
+   "id": 39,
+   "construction": "applicatives",
+   "example": "Her friend reserved them the best seats in the whole stadium."
+ },
+ {
+   "id": 40,
+   "construction": "applicatives",
+   "example": "I picked him a few berries on my way home."
+ },
+ {
+   "id": 41,
+   "construction": "reduced_relative_clauses",
+   "example": "The letter written in haste contained several errors."
+ },
+ {
+   "id": 42,
+   "construction": "reduced_relative_clauses",
+   "example": "The car parked outside belongs to my neighbour."
+ },
+ {
+   "id": 43,
+   "construction": "reduced_relative_clauses",
+   "example": "The students chosen for the team trained every morning."
+ },
+ {
+   "id": 44,
+   "construction": "reduced_relative_clauses",
+   "example": "The bridge built in 1890 still carries traffic."
+ },
+ {
+   "id": 45,
+   "construction": "reduced_relative_clauses",
+   "example": "The novel translated from Icelandic won an award."
+ },
+ {
+   "id": 46,
+   "construction": "reduced_relative_clauses",
+   "example": "The documents signed yesterday are now legally binding."
+ },
+ {
+   "id": 47,
+   "construction": "reduced_relative_clauses",
+   "example": "The food served at the reception was delicious."
+ },
+ {
+   "id": 48,
+   "construction": "reduced_relative_clauses",
+   "example": "The painting stolen from the museum was never recovered."
+ },
+ {
+   "id": 49,
+   "construction": "reduced_relative_clauses",
+   "example": "The houses destroyed in the storm have been rebuilt."
+ },
+ {
+   "id": 50,
+   "construction": "reduced_relative_clauses",
+   "example": "The report submitted last week needs revision."
+ },
+ {
+   "id": 51,
+   "construction": "reduced_relative_clauses",
+   "example": "The soldiers wounded in battle were taken to hospital."
+ },
+ {
+   "id": 52,
+   "construction": "reduced_relative_clauses",
+   "example": "The questions asked by the committee were difficult."
+ },
+ {
+   "id": 53,
+   "construction": "reduced_relative_clauses",
+   "example": "The wine produced in this region is highly prized."
+ },
+ {
+   "id": 54,
+   "construction": "reduced_relative_clauses",
+   "example": "The proposal rejected by the board has been resubmitted."
+ },
+ {
+   "id": 55,
+   "construction": "reduced_relative_clauses",
+   "example": "The photographs taken on the trip were stunning."
+ },
+ {
+   "id": 56,
+   "construction": "reduced_relative_clauses",
+   "example": "The money found on the street was returned to its owner."
+ },
+ {
+   "id": 57,
+   "construction": "reduced_relative_clauses",
+   "example": "The agreement reached after long negotiations pleased everyone."
+ },
+ {
+   "id": 58,
+   "construction": "reduced_relative_clauses",
+   "example": "The candidates interviewed on Friday will be contacted soon."
+ },
+ {
+   "id": 59,
+   "construction": "reduced_relative_clauses",
+   "example": "The trees planted last spring are growing well."
+ },
+ {
+   "id": 60,
+   "construction": "reduced_relative_clauses",
+   "example": "The data collected during the survey proved unreliable."
+ },
+ {
+   "id": 61,
+   "construction": "garden_path",
+   "example": "The florist sent the flowers was pleased."
+ },
+ {
+   "id": 62,
+   "construction": "garden_path",
+   "example": "The boat sailed down the river sank."
+ },
+ {
+   "id": 63,
+   "construction": "garden_path",
+   "example": "The people read their rights fought back."
+ },
+ {
+   "id": 64,
+   "construction": "garden_path",
+   "example": "The animals nearly starved to death are alive."
+ },
+ {
+   "id": 65,
+   "construction": "garden_path",
+   "example": "The board members booked a table at the restaurant by the secretary didn't like the food."
+ },
+ {
+   "id": 66,
+   "construction": "bare_relative_clauses",
+   "example": "The peas I like are not sold here."
+ },
+ {
+   "id": 67,
+   "construction": "bare_relative_clauses",
+   "example": "The wine I prefer is hard to find."
+ },
+ {
+   "id": 68,
+   "construction": "bare_relative_clauses",
+   "example": "The books she ordered never arrived."
+ },
+ {
+   "id": 69,
+   "construction": "bare_relative_clauses",
+   "example": "The people he trusts always let him down."
+ },
+ {
+   "id": 70,
+   "construction": "bare_relative_clauses",
+   "example": "The music she loves annoys everyone else."
+ },
+ {
+   "id": 71,
+   "construction": "bare_relative_clauses",
+   "example": "The colours you chose don't match."
+ },
+ {
+   "id": 72,
+   "construction": "bare_relative_clauses",
+   "example": "The candidate they support has withdrawn."
+ },
+ {
+   "id": 73,
+   "construction": "bare_relative_clauses",
+   "example": "The film we wanted was already sold out."
+ },
+ {
+   "id": 74,
+   "construction": "bare_relative_clauses",
+   "example": "The flat he rented turned out to have mold."
+ },
+ {
+   "id": 75,
+   "construction": "bare_relative_clauses",
+   "example": "The advice you gave made things worse."
+ },
+ {
+   "id": 76,
+   "construction": "bare_relative_clauses",
+   "example": "The dishes they serve contain too much salt."
+ },
+ {
+   "id": 77,
+   "construction": "bare_relative_clauses",
+   "example": "The route I take floods in winter."
+ },
+ {
+   "id": 78,
+   "construction": "bare_relative_clauses",
+   "example": "The students she teaches rarely complain."
+ },
+ {
+   "id": 79,
+   "construction": "bare_relative_clauses",
+   "example": "The car he bought broke down within a week."
+ },
+ {
+   "id": 80,
+   "construction": "bare_relative_clauses",
+   "example": "The proposals the board approved went nowhere."
+ },
+ {
+   "id": 81,
+   "construction": "bare_relative_clauses",
+   "example": "The questions you raised deserve an answer."
+ },
+ {
+   "id": 82,
+   "construction": "bare_relative_clauses",
+   "example": "The numbers we reported were wrong."
+ },
+ {
+   "id": 83,
+   "construction": "bare_relative_clauses",
+   "example": "The friends she invited never showed up."
+ },
+ {
+   "id": 84,
+   "construction": "bare_relative_clauses",
+   "example": "The terms they offered seemed unreasonable."
+ },
+ {
+   "id": 85,
+   "construction": "bare_relative_clauses",
+   "example": "The painting he admired sold for a fortune."
+ },
+ {
+   "id": 86,
+   "construction": "anaphoric_one",
+   "example": "I prefer the report on trade to the one on agriculture."
+ },
+ {
+   "id": 87,
+   "construction": "anaphoric_one",
+   "example": "The painting of the harbour is more beautiful than the one of the cathedral."
+ },
+ {
+   "id": 88,
+   "construction": "anaphoric_one",
+   "example": "She took the road through the valley, not the one over the pass."
+ },
+ {
+   "id": 89,
+   "construction": "anaphoric_one",
+   "example": "The student from England arrived before the one from France."
+ },
+ {
+   "id": 90,
+   "construction": "anaphoric_one",
+   "example": "The chapter on syntax is longer than the one on phonology."
+ },
+ {
+   "id": 91,
+   "construction": "anaphoric_one",
+   "example": "I'll take the blue shirt rather than the red one."
+ },
+ {
+   "id": 92,
+   "construction": "anaphoric_one",
+   "example": "The first answer was right, but the second one was wrong."
+ },
+ {
+   "id": 93,
+   "construction": "anaphoric_one",
+   "example": "He wanted the cheap seats, but she booked the expensive ones."
+ },
+ {
+   "id": 94,
+   "construction": "anaphoric_one",
+   "example": "The old bridge is closed, so we use the new one."
+ },
+ {
+   "id": 95,
+   "construction": "anaphoric_one",
+   "example": "The small boxes sold out before the large ones did."
+ },
+ {
+   "id": 96,
+   "construction": "anaphoric_one",
+   "example": "The book that she lent me was better than the one I bought."
+ },
+ {
+   "id": 97,
+   "construction": "anaphoric_one",
+   "example": "The candidates who applied early did better than the ones who waited."
+ },
+ {
+   "id": 98,
+   "construction": "anaphoric_one",
+   "example": "I like the songs you wrote more than the ones you covered."
+ },
+ {
+   "id": 99,
+   "construction": "anaphoric_one",
+   "example": "I don't like this one, but I like that one."
+ },
+ {
+   "id": 100,
+   "construction": "anaphoric_one",
+   "example": "These apples are ripe, but those ones are still green."
+ },
+ {
+   "id": 101,
+   "construction": "anaphoric_one",
+   "example": "Not that one – the one beside it."
+ },
+ {
+   "id": 102,
+   "construction": "anaphoric_one",
+   "example": "Of the two proposals, the longer one was rejected."
+ },
+ {
+   "id": 103,
+   "construction": "anaphoric_one",
+   "example": "The wooden chairs lasted, but the plastic ones broke."
+ },
+ {
+   "id": 104,
+   "construction": "anaphoric_one",
+   "example": "She kept the photos from the wedding and threw out the ones from the trip."
+ },
+ {
+   "id": 105,
+   "construction": "anaphoric_one",
+   "example": "The questions in the first section were easy; the ones in the last were not."
+ },
+ {
+   "id": 106,
+   "construction": "parasitic_gaps",
+   "example": "This is the sweater he has washed every day since buying."
+ },
+ {
+   "id": 107,
+   "construction": "parasitic_gaps",
+   "example": "Which poems have you changed since reading?"
+ },
+ {
+   "id": 108,
+   "construction": "parasitic_gaps",
+   "example": "This is the movie I decided not to review before even seeing."
+ },
+ {
+   "id": 109,
+   "construction": "parasitic_gaps",
+   "example": "This man, you must capture before interrogating."
+ },
+ {
+   "id": 110,
+   "construction": "parasitic_gaps",
+   "example": "Here is the melody he sang before hearing."
+ },
+ {
+   "id": 111,
+   "construction": "parasitic_gaps",
+   "example": "Which computer did you brick while fixing?"
+ },
+ {
+   "id": 112,
+   "construction": "parasitic_gaps",
+   "example": "Her dog, I petted before vaccinating."
+ },
+ {
+   "id": 113,
+   "construction": "parasitic_gaps",
+   "example": "That student, the teacher scolded before dismissing."
+ },
+ {
+   "id": 114,
+   "construction": "parasitic_gaps",
+   "example": "Which small book did you sometimes read before buying?"
+ },
+ {
+   "id": 115,
+   "construction": "parasitic_gaps",
+   "example": "Which VHS tapes have you watched since buying?"
+ },
+ {
+   "id": 116,
+   "construction": "tough_movement",
+   "example": "These facts are tough to swallow."
+ },
+ {
+   "id": 117,
+   "construction": "tough_movement",
+   "example": "These children are tough to convince."
+ },
+ {
+   "id": 118,
+   "construction": "tough_movement",
+   "example": "The location is hard to get to."
+ },
+ {
+   "id": 119,
+   "construction": "tough_movement",
+   "example": "His movies are hard to understand."
+ },
+ {
+   "id": 120,
+   "construction": "tough_movement",
+   "example": "Their comments are hard to answer."
+ },
+ {
+   "id": 121,
+   "construction": "tough_movement",
+   "example": "This misunderstanding was hard to avoid."
+ },
+ {
+   "id": 122,
+   "construction": "tough_movement",
+   "example": "My in-laws can be very hard to please."
+ },
+ {
+   "id": 123,
+   "construction": "tough_movement",
+   "example": "That's why these chairs are very difficult to clean."
+ },
+ {
+   "id": 124,
+   "construction": "tough_movement",
+   "example": "These books are so hard to read."
+ },
+ {
+   "id": 125,
+   "construction": "tough_movement",
+   "example": "This car is hard to park in small spaces."
+ },
+ {
+   "id": 126,
+   "construction": "tough_movement",
+   "example": "These facts are easy to swallow."
+ },
+ {
+   "id": 127,
+   "construction": "tough_movement",
+   "example": "These children are easy to convince."
+ },
+ {
+   "id": 128,
+   "construction": "tough_movement",
+   "example": "The location is easy to get to."
+ },
+ {
+   "id": 129,
+   "construction": "tough_movement",
+   "example": "His movies are simple to understand."
+ },
+ {
+   "id": 130,
+   "construction": "tough_movement",
+   "example": "Their comments are easy to answer."
+ },
+ {
+   "id": 131,
+   "construction": "tough_movement",
+   "example": "This misunderstanding could have been easy to avoid."
+ },
+ {
+   "id": 132,
+   "construction": "tough_movement",
+   "example": "My in-laws can be very easy to please."
+ },
+ {
+   "id": 133,
+   "construction": "tough_movement",
+   "example": "That's why these chairs are very easy to clean."
+ },
+ {
+   "id": 134,
+   "construction": "tough_movement",
+   "example": "These books are so easy to read."
+ },
+ {
+   "id": 135,
+   "construction": "tough_movement",
+   "example": "This car is easy to park in small spaces."
+ },
+ {
+   "id": 136,
+   "construction": "exceptional_case_marking",
+   "example": "I want John to read the book to Mary."
+ },
+ {
+   "id": 137,
+   "construction": "exceptional_case_marking",
+   "example": "Who do you want to read the book to Mary?"
+ },
+ {
+   "id": 138,
+   "construction": "exceptional_case_marking",
+   "example": "I expected her to dance but she did not."
+ },
+ {
+   "id": 139,
+   "construction": "exceptional_case_marking",
+   "example": "Who did you expect to eat the cake?"
+ },
+ {
+   "id": 140,
+   "construction": "exceptional_case_marking",
+   "example": "I want my grandmother to drive me to school."
+ },
+ {
+   "id": 141,
+   "construction": "exceptional_case_marking",
+   "example": "Who do you want to drive you around?"
+ },
+ {
+   "id": 142,
+   "construction": "exceptional_case_marking",
+   "example": "I proved him to be a master salesman."
+ },
+ {
+   "id": 143,
+   "construction": "exceptional_case_marking",
+   "example": "Who do you prefer to walk you down the aisle?"
+ },
+ {
+   "id": 144,
+   "construction": "exceptional_case_marking",
+   "example": "She preferred him to recite the poem."
+ },
+ {
+   "id": 145,
+   "construction": "exceptional_case_marking",
+   "example": "Who would you hate to show up at your house in the middle of the night?"
+ },
+ {
+   "id": 146,
+   "construction": "exceptional_case_marking",
+   "example": "I would hate him to be late tonight."
+ },
+ {
+   "id": 147,
+   "construction": "exceptional_case_marking",
+   "example": "Who are you counting on to save this inedible soup?"
+ },
+ {
+   "id": 148,
+   "construction": "exceptional_case_marking",
+   "example": "We expected them to be available."
+ },
+ {
+   "id": 149,
+   "construction": "exceptional_case_marking",
+   "example": "Who are you expecting to come?"
+ },
+ {
+   "id": 150,
+   "construction": "exceptional_case_marking",
+   "example": "They found themselves to be completely lost."
+ },
+ {
+   "id": 151,
+   "construction": "exceptional_case_marking",
+   "example": "Which book do you expect to be the first thing we read?"
+ },
+ {
+   "id": 152,
+   "construction": "exceptional_case_marking",
+   "example": "I assumed him to be an artist."
+ },
+ {
+   "id": 153,
+   "construction": "exceptional_case_marking",
+   "example": "Who would he prefer to be his mentor?"
+ },
+ {
+   "id": 154,
+   "construction": "exceptional_case_marking",
+   "example": "The elephant believed me to be a mouse."
+ },
+ {
+   "id": 155,
+   "construction": "exceptional_case_marking",
+   "example": "Which dog do you want to do the tricks?"
+ },
+ {
+   "id": 156,
+   "construction": "modal_verb",
+   "example": "My grandmother could speak four languages."
+ },
+ {
+   "id": 157,
+   "construction": "modal_verb",
+   "example": "I could recite that poem by heart at the age of nine."
+ },
+ {
+   "id": 158,
+   "construction": "modal_verb",
+   "example": "When he was four, he could already write his name."
+ },
+ {
+   "id": 159,
+   "construction": "modal_verb",
+   "example": "He could play the violin when he was six."
+ },
+ {
+   "id": 160,
+   "construction": "modal_verb",
+   "example": "She could already tie her shoelaces when she was three."
+ },
+ {
+   "id": 161,
+   "construction": "modal_verb",
+   "example": "You may leave the room when you have finished the test."
+ },
+ {
+   "id": 162,
+   "construction": "modal_verb",
+   "example": "Visitors may use the parking lot behind the building."
+ },
+ {
+   "id": 163,
+   "construction": "modal_verb",
+   "example": "Students may borrow up to five books at a time."
+ },
+ {
+   "id": 164,
+   "construction": "modal_verb",
+   "example": "You may begin the exam now."
+ },
+ {
+   "id": 165,
+   "construction": "modal_verb",
+   "example": "Passengers may bring one piece of hand luggage on board."
+ },
+ {
+   "id": 166,
+   "construction": "modal_verb",
+   "example": "If I had known you were coming, I would have baked a cake."
+ },
+ {
+   "id": 167,
+   "construction": "modal_verb",
+   "example": "He would have helped you, but he was away that week."
+ },
+ {
+   "id": 168,
+   "construction": "modal_verb",
+   "example": "I would have called you sooner, but I lost your number."
+ },
+ {
+   "id": 169,
+   "construction": "modal_verb",
+   "example": "You would have loved the concert."
+ },
+ {
+   "id": 170,
+   "construction": "modal_verb",
+   "example": "We must stop this man before he ruins everything."
+ },
+ {
+   "id": 171,
+   "construction": "modal_verb",
+   "example": "The books must burn! They would be dangerous to have around."
+ },
+ {
+   "id": 172,
+   "construction": "modal_verb",
+   "example": "You must try this recipe, the cake is awesome!"
+ },
+ {
+   "id": 173,
+   "construction": "modal_verb",
+   "example": "You must have been late, because I left early and didn't see you."
+ },
+ {
+   "id": 174,
+   "construction": "modal_verb",
+   "example": "She must be seeing things, there is nothing there!"
+ },
+ {
+   "id": 175,
+   "construction": "modal_verb",
+   "example": "The gods must be crazy!"
+ },
+ {
+   "id": 176,
+   "construction": "causative_alternation_verbs",
+   "example": "The ship sank."
+ },
+ {
+   "id": 177,
+   "construction": "causative_alternation_verbs",
+   "example": "They sank the ship."
+ },
+ {
+   "id": 178,
+   "construction": "causative_alternation_verbs",
+   "example": "The letters burned."
+ },
+ {
+   "id": 179,
+   "construction": "causative_alternation_verbs",
+   "example": "She burned the letters."
+ },
+ {
+   "id": 180,
+   "construction": "causative_alternation_verbs",
+   "example": "The picture hung on the wall."
+ },
+ {
+   "id": 181,
+   "construction": "causative_alternation_verbs",
+   "example": "They hung the picture on the wall."
+ },
+ {
+   "id": 182,
+   "construction": "causative_alternation_verbs",
+   "example": "The water froze."
+ },
+ {
+   "id": 183,
+   "construction": "causative_alternation_verbs",
+   "example": "They froze the food."
+ },
+ {
+   "id": 184,
+   "construction": "causative_alternation_verbs",
+   "example": "The glass broke."
+ },
+ {
+   "id": 185,
+   "construction": "causative_alternation_verbs",
+   "example": "They broke the glass."
+ },
+ {
+   "id": 186,
+   "construction": "causative_alternation_verbs",
+   "example": "The kittens drowned."
+ },
+ {
+   "id": 187,
+   "construction": "causative_alternation_verbs",
+   "example": "They drowned the kittens."
+ },
+ {
+   "id": 188,
+   "construction": "causative_alternation_verbs",
+   "example": "The snow will melt soon."
+ },
+ {
+   "id": 189,
+   "construction": "causative_alternation_verbs",
+   "example": "Are you going to melt the snow?"
+ },
+ {
+   "id": 190,
+   "construction": "causative_alternation_verbs",
+   "example": "He bent the wire."
+ },
+ {
+   "id": 191,
+   "construction": "causative_alternation_verbs",
+   "example": "The wire bent."
+ },
+ {
+   "id": 192,
+   "construction": "causative_alternation_verbs",
+   "example": "The exercise improved her performance."
+ },
+ {
+   "id": 193,
+   "construction": "causative_alternation_verbs",
+   "example": "Her performance improved."
+ },
+ {
+   "id": 194,
+   "construction": "causative_alternation_verbs",
+   "example": "The prisoners starved themselves to death."
+ },
+ {
+   "id": 195,
+   "construction": "causative_alternation_verbs",
+   "example": "The prisoners starved to death."
+ },
+ {
+   "id": 196,
+   "construction": "causative_alternation_verbs",
+   "example": "He slid down the hill."
+ },
+ {
+   "id": 197,
+   "construction": "causative_alternation_verbs",
+   "example": "He slid the box across the floor."
+ },
+ {
+   "id": 198,
+   "construction": "causative_alternation_verbs",
+   "example": "He split the log."
+ },
+ {
+   "id": 199,
+   "construction": "causative_alternation_verbs",
+   "example": "The log split."
+ },
+ {
+   "id": 200,
+   "construction": "understood_initiator_of_passives",
+   "example": "Evans said none of the firefighters at Station 41 were hurt, but said the roof was torn off by the high winds."
+ },
+ {
+   "id": 201,
+   "construction": "understood_initiator_of_passives",
+   "example": "72 of 80 total residents were killed by the disease in less than a week."
+ },
+ {
+   "id": 202,
+   "construction": "understood_initiator_of_passives",
+   "example": "The group was on a three-day backcountry trek in the Sierra Nevada on Tuesday morning when they were trapped by the avalanche as a winter storm pummeled the West Coast."
+ },
+ {
+   "id": 203,
+   "construction": "understood_initiator_of_passives",
+   "example": "Vast swathes of farmland were destroyed by the floodwater, and many farmers have struggled to feed their livestock."
+ },
+ {
+   "id": 204,
+   "construction": "understood_initiator_of_passives",
+   "example": "There is no evidence left — either because the evidence was consumed by the fire or made unavailable after the fire."
+ },
+ {
+   "id": 205,
+   "construction": "understood_initiator_of_passives",
+   "example": "Birna Lárusdóttir hopes that the ruins may hide Greek manuscripts preserved by the dry climate."
+ },
+ {
+   "id": 206,
+   "construction": "understood_initiator_of_passives",
+   "example": "The town was devastated by the hurricane, which flattened shanty towns."
+ },
+ {
+   "id": 207,
+   "construction": "understood_initiator_of_passives",
+   "example": "Rows of luxurious palms along the clubhouse drive at Tropical Park were ruined by the frost."
+ },
+ {
+   "id": 208,
+   "construction": "understood_initiator_of_passives",
+   "example": "More than 700 buildings were damaged by the earthquake."
+ },
+ {
+   "id": 209,
+   "construction": "understood_initiator_of_passives",
+   "example": "I arrived at the site at 7:30 am and found that the whole area was buried by the landslide."
+ },
+ {
+   "id": 210,
+   "construction": "understood_initiator_of_passives",
+   "example": "In Norton, a tree was uprooted by the storm."
+ },
+ {
+   "id": 211,
+   "construction": "understood_initiator_of_passives",
+   "example": "The sky was illuminated by the lightning in Adrian, Texas."
+ },
+ {
+   "id": 212,
+   "construction": "understood_initiator_of_passives",
+   "example": "Their home was engulfed by the wildfire on August 18th, 2020."
+ },
+ {
+   "id": 213,
+   "construction": "understood_initiator_of_passives",
+   "example": "Thompson’s paintings got blown over by a sudden gust."
+ },
+ {
+   "id": 214,
+   "construction": "understood_initiator_of_passives",
+   "example": "290 people refused to leave and were drowned by the rising tide."
+ },
+ {
+   "id": 215,
+   "construction": "understood_initiator_of_passives",
+   "example": "Then the rocks were polished by the current."
+ },
+ {
+   "id": 216,
+   "construction": "understood_initiator_of_passives",
+   "example": "The sun was darkened by the volcanic ash that surrounded the whole world."
+ },
+ {
+   "id": 217,
+   "construction": "understood_initiator_of_passives",
+   "example": "The yellowing maple leaves were scattered by the autumn wind."
+ },
+ {
+   "id": 218,
+   "construction": "understood_initiator_of_passives",
+   "example": "It is estimated that more than 5,000 Moose died, drowned or were displaced by the rising floodwaters."
+ },
+ {
+   "id": 219,
+   "construction": "understood_initiator_of_passives",
+   "example": "A piece of debris was thrown by the impact and broke a window."
+ },
+ {
+   "id": 220,
+   "construction": "inalienable_body_part_possession",
+   "example": "My stomach hurts."
+ },
+ {
+   "id": 221,
+   "construction": "inalienable_body_part_possession",
+   "example": "He washed his hands."
+ },
+ {
+   "id": 222,
+   "construction": "inalienable_body_part_possession",
+   "example": "She broke her leg."
+ },
+ {
+   "id": 223,
+   "construction": "inalienable_body_part_possession",
+   "example": "She brushed her teeth."
+ },
+ {
+   "id": 224,
+   "construction": "inalienable_body_part_possession",
+   "example": "I shook my head."
+ },
+ {
+   "id": 225,
+   "construction": "inalienable_body_part_possession",
+   "example": "I raised my hand."
+ },
+ {
+   "id": 226,
+   "construction": "inalienable_body_part_possession",
+   "example": "He folds his hands."
+ },
+ {
+   "id": 227,
+   "construction": "inalienable_body_part_possession",
+   "example": "He shrugged his shoulders."
+ },
+ {
+   "id": 228,
+   "construction": "inalienable_body_part_possession",
+   "example": "The runner twisted his ankle."
+ },
+ {
+   "id": 229,
+   "construction": "inalienable_body_part_possession",
+   "example": "You shouldn't pick your nose in front of people."
+ },
+ {
+   "id": 230,
+   "construction": "inalienable_body_part_possession",
+   "example": "Blow your nose!"
+ },
+ {
+   "id": 231,
+   "construction": "inalienable_body_part_possession",
+   "example": "I lost my voice."
+ },
+ {
+   "id": 232,
+   "construction": "inalienable_body_part_possession",
+   "example": "You should stretch your legs every now and then."
+ },
+ {
+   "id": 233,
+   "construction": "inalienable_body_part_possession",
+   "example": "She nodded her head."
+ },
+ {
+   "id": 234,
+   "construction": "inalienable_body_part_possession",
+   "example": "Close your eyes."
+ },
+ {
+   "id": 235,
+   "construction": "inalienable_body_part_possession",
+   "example": "She cleared her throat on live TV."
+ },
+ {
+   "id": 236,
+   "construction": "inalienable_body_part_possession",
+   "example": "Open your mouth."
+ },
+ {
+   "id": 237,
+   "construction": "inalienable_body_part_possession",
+   "example": "He has lost all his hair."
+ },
+ {
+   "id": 238,
+   "construction": "inalienable_body_part_possession",
+   "example": "Put your hands on your hips!"
+ },
+ {
+   "id": 239,
+   "construction": "inalienable_body_part_possession",
+   "example": "Keep your back straight!"
+ },
+ {
+   "id": 240,
+   "construction": "pseudo_passives",
+   "example": "This man's testimony cannot be relied upon in a court of law."
+ },
+ {
+   "id": 241,
+   "construction": "pseudo_passives",
+   "example": "The bot attack was promptly dealt with by the IT department."
+ },
+ {
+   "id": 242,
+   "construction": "pseudo_passives",
+   "example": "The teacher's house was broken into late last night."
+ },
+ {
+   "id": 243,
+   "construction": "pseudo_passives",
+   "example": "The protesters were fired upon without warning."
+ },
+ {
+   "id": 244,
+   "construction": "pseudo_passives",
+   "example": "Þorsteinn Már's heap of money has finally been accounted for."
+ },
+ {
+   "id": 245,
+   "construction": "pseudo_passives",
+   "example": "The interest hike was agreed upon by the neatly dressed people in the bank."
+ },
+ {
+   "id": 246,
+   "construction": "pseudo_passives",
+   "example": "The dying old man was carefully looked after by the nurse."
+ },
+ {
+   "id": 247,
+   "construction": "pseudo_passives",
+   "example": "I was unfairly laughed at when I presented my great ideas."
+ },
+ {
+   "id": 248,
+   "construction": "pseudo_passives",
+   "example": "She hated being spoken to when she was a student."
+ },
+ {
+   "id": 249,
+   "construction": "pseudo_passives",
+   "example": "The freshly mopped floor was accidentally stepped on."
+ },
+ {
+   "id": 250,
+   "construction": "pseudo_passives",
+   "example": "The damage to my house was never fully paid for."
+ },
+ {
+   "id": 251,
+   "construction": "pseudo_passives",
+   "example": "I've been walked on and stepped on, and told I was a fool."
+ },
+ {
+   "id": 252,
+   "construction": "pseudo_passives",
+   "example": "The empty parking lot was suddenly pulled into by a suspicious-looking black Volkswagen Beetle."
+ },
+ {
+   "id": 253,
+   "construction": "pseudo_passives",
+   "example": "Such informal behaviour is widely frowned upon at this workplace."
+ },
+ {
+   "id": 254,
+   "construction": "pseudo_passives",
+   "example": "The elephant in the room needs to be talked about."
+ },
+ {
+   "id": 255,
+   "construction": "pseudo_passives",
+   "example": "Hrafn Gunnlaugsson says he is universally looked up to by aspiring directors."
+ },
+ {
+   "id": 256,
+   "construction": "pseudo_passives",
+   "example": "Nobody likes to be shouted at."
+ },
+ {
+   "id": 257,
+   "construction": "wh_movement_with_which_n",
+   "example": "Which man are you talking about? "
+ },
+ {
+   "id": 258,
+   "construction": "wh_movement_with_which_n",
+   "example": "Which house do they live in? "
+ },
+ {
+   "id": 259,
+   "construction": "wh_movement_with_which_n",
+   "example": "Which horse did she buy? "
+ },
+ {
+   "id": 260,
+   "construction": "wh_movement_with_which_n",
+   "example": "Which horse did she arrive on? "
+ },
+ {
+   "id": 261,
+   "construction": "wh_movement_with_which_n",
+   "example": "Which child did you help? "
+ },
+ {
+   "id": 262,
+   "construction": "wh_movement_with_which_n",
+   "example": "Which knife did he cut it with? "
+ },
+ {
+   "id": 263,
+   "construction": "wh_movement_with_which_n",
+   "example": "Which letter are you waiting for? "
+ },
+ {
+   "id": 264,
+   "construction": "wh_movement_with_which_n",
+   "example": "Which dog did the owner praise?"
+ },
+ {
+   "id": 265,
+   "construction": "wh_movement_with_which_n",
+   "example": "Which dog is the boy afraid of? "
+ },
+ {
+   "id": 266,
+   "construction": "wh_movement_with_which_n",
+   "example": "Which country were you born in? "
+ },
+ {
+   "id": 267,
+   "construction": "wh_movement_with_whose_n",
+   "example": "Whose sister was fired? "
+ },
+ {
+   "id": 268,
+   "construction": "wh_movement_with_whose_n",
+   "example": "Whose brother was arrested? "
+ },
+ {
+   "id": 269,
+   "construction": "wh_movement_with_whose_n",
+   "example": "Whose daughter was injured? "
+ },
+ {
+   "id": 270,
+   "construction": "wh_movement_with_whose_n",
+   "example": "Whose son was hired? "
+ },
+ {
+   "id": 271,
+   "construction": "wh_movement_with_whose_n",
+   "example": "Whose mother was hospitalized? "
+ },
+ {
+   "id": 272,
+   "construction": "wh_movement_with_whose_n",
+   "example": "Whose father was honored? "
+ },
+ {
+   "id": 273,
+   "construction": "wh_movement_with_whose_n",
+   "example": "Whose grandmother was robbed? "
+ },
+ {
+   "id": 274,
+   "construction": "wh_movement_with_whose_n",
+   "example": "Whose grandfather was elected? "
+ },
+ {
+   "id": 275,
+   "construction": "wh_movement_with_whose_n",
+   "example": "Whose niece was elected? "
+ },
+ {
+   "id": 276,
+   "construction": "wh_movement_with_whose_n",
+   "example": "Whose nephew was fired? "
+ },
+ {
+   "id": 277,
+   "construction": "wh_movement_with_whose_nn",
+   "example": "Whose husband's brother was fired? "
+ },
+ {
+   "id": 278,
+   "construction": "wh_movement_with_whose_nn",
+   "example": "Whose grandmother's car was destroyed? "
+ },
+ {
+   "id": 279,
+   "construction": "wh_movement_with_whose_nn",
+   "example": "Whose neighbor's house was sold? "
+ },
+ {
+   "id": 280,
+   "construction": "wh_movement_with_whose_nn",
+   "example": "Whose brother's daughter was injured? "
+ },
+ {
+   "id": 281,
+   "construction": "wh_movement_with_whose_nn",
+   "example": "Whose teacher's niece was arrested? "
+ },
+ {
+   "id": 282,
+   "construction": "wh_movement_with_whose_nn",
+   "example": "Whose boss's wife was elected? "
+ },
+ {
+   "id": 283,
+   "construction": "wh_movement_with_whose_nn",
+   "example": "Whose colleague's apartment was sold? "
+ },
+ {
+   "id": 284,
+   "construction": "wh_movement_with_whose_nn",
+   "example": "Whose friend's father was hospitalized? "
+ },
+ {
+   "id": 285,
+   "construction": "wh_movement_with_whose_nn",
+   "example": "Whose uncle's company was sold? "
+ },
+ {
+   "id": 286,
+   "construction": "wh_movement_with_whose_nn",
+   "example": "Whose cousin's grandmother was robbed? "
+ },
+ {
+   "id": 287,
+   "construction": "subjunctive_mood",
+   "example": "Although he is rich, he lives in a small tent in his mother's garden."
+ },
+ {
+   "id": 288,
+   "construction": "subjunctive_mood",
+   "example": "Joan went for a run even though it was raining heavily."
+ },
+ {
+   "id": 289,
+   "construction": "subjunctive_mood",
+   "example": "Even though they know what's up, they will never admit it."
+ },
+ {
+   "id": 290,
+   "construction": "subjunctive_mood",
+   "example": "I won't enter this building unless you make sure it's empty."
+ },
+ {
+   "id": 291,
+   "construction": "subjunctive_mood",
+   "example": "I run a lot in the rain so that no one knows I'm crying."
+ },
+ {
+   "id": 292,
+   "construction": "subjunctive_mood",
+   "example": "He took off his ridiculous hat so that everyone would feel better."
+ },
+ {
+   "id": 293,
+   "construction": "subjunctive_mood",
+   "example": "Emil wasn't sure if he was allowed to eat the sandwich."
+ },
+ {
+   "id": 294,
+   "construction": "subjunctive_mood",
+   "example": "I doubt the lion is telling the truth."
+ },
+ {
+   "id": 295,
+   "construction": "subjunctive_mood",
+   "example": "It is highly unlikely that your son can truly fly."
+ },
+ {
+   "id": 296,
+   "construction": "subjunctive_mood",
+   "example": "I am giving you the book so you can read it."
+ },
+ {
+   "id": 297,
+   "construction": "subjunctive_mood",
+   "example": "My mother honestly believes I wasn't the one who broke the vase."
+ },
+ {
+   "id": 298,
+   "construction": "subjunctive_mood",
+   "example": "I am saving money so I can buy a toaster one day."
+ },
+ {
+   "id": 299,
+   "construction": "subjunctive_mood",
+   "example": "Jump higher please, so I can see you."
+ },
+ {
+   "id": 300,
+   "construction": "subjunctive_mood",
+   "example": "The boy's uncle always locked the house so that the aliens couldn't get in."
+ },
+ {
+   "id": 301,
+   "construction": "subjunctive_mood",
+   "example": "They won't be able to attend the gala unless they wear something appropriate."
+ },
+ {
+   "id": 302,
+   "construction": "subjunctive_mood",
+   "example": "I think your dog is tired."
+ },
+ {
+   "id": 303,
+   "construction": "subjunctive_mood",
+   "example": "We suspected that you would show up one day."
+ },
+ {
+   "id": 304,
+   "construction": "subjunctive_mood",
+   "example": "It is possible that the professor won't show up at all today."
+ },
+ {
+   "id": 305,
+   "construction": "subjunctive_mood",
+   "example": "If I had enough money, I would buy a helicopter."
+ },
+ {
+   "id": 306,
+   "construction": "subjunctive_mood",
+   "example": "She would have passed the exam if she had studied harder."
+ },
+ {
+   "id": 307,
+   "construction": "subjunctive_mood",
+   "example": "If the weather had been better, we would have gone hiking."
+ },
+ {
+   "id": 308,
+   "construction": "subjunctive_mood",
+   "example": "The plan would have worked if everyone had cooperated."
+ },
+ {
+   "id": 309,
+   "construction": "subjunctive_mood",
+   "example": "We would have arrived on time if the train hadn't been delayed."
+ },
+ {
+   "id": 310,
+   "construction": "subjunctive_mood",
+   "example": "They would have won the match if their goalkeeper hadn't been injured."
+ },
+ {
+   "id": 311,
+   "construction": "verb_phrase_ellipsis",
+   "example": "Grímur read the Bible every day, but Lísa did not."
+ },
+ {
+   "id": 312,
+   "construction": "verb_phrase_ellipsis",
+   "example": "Hobbits rarely wear shoes when out and about, but I do."
+ },
+ {
+   "id": 313,
+   "construction": "verb_phrase_ellipsis",
+   "example": "If you won't take care of this mess, no one will."
+ },
+ {
+   "id": 314,
+   "construction": "verb_phrase_ellipsis",
+   "example": "Most birds can fly, but penguins cannot."
+ },
+ {
+   "id": 315,
+   "construction": "verb_phrase_ellipsis",
+   "example": "My mother told me I shouldn't play with my food, but I told my brother that he should."
+ },
+ {
+   "id": 316,
+   "construction": "verb_phrase_ellipsis",
+   "example": "I think I can help you, but I don't think I will."
+ },
+ {
+   "id": 317,
+   "construction": "verb_phrase_ellipsis",
+   "example": "Birkir is definitely not singing tonight, but Björk might."
+ },
+ {
+   "id": 318,
+   "construction": "verb_phrase_ellipsis",
+   "example": "I have to lock my door before I leave the house, and you do too."
+ },
+ {
+   "id": 319,
+   "construction": "verb_phrase_ellipsis",
+   "example": "He must ask whether he can wear his raincoat inside, and you must too."
+ },
+ {
+   "id": 320,
+   "construction": "verb_phrase_ellipsis",
+   "example": "I have already seen Börn náttúrunnar, but you haven't."
+ },
+ {
+   "id": 321,
+   "construction": "verb_phrase_ellipsis",
+   "example": "Rós was invited to the party, and her daughter was as well."
+ },
+ {
+   "id": 322,
+   "construction": "verb_phrase_ellipsis",
+   "example": "I don't know if you're going tonight, but I am."
+ },
+ {
+   "id": 323,
+   "construction": "verb_phrase_ellipsis",
+   "example": "They haven't tasted the Icelandic skyr, but we have."
+ },
+ {
+   "id": 324,
+   "construction": "verb_phrase_ellipsis",
+   "example": "Eduardo is studying volcanology, and his girlfriend is too."
+ },
+ {
+   "id": 325,
+   "construction": "verb_phrase_ellipsis",
+   "example": "Angantýr will not jump the gorge, but Jóhannes will."
+ },
+ {
+   "id": 326,
+   "construction": "verb_phrase_ellipsis",
+   "example": "You don't have to cut your hair, and your brother doesn't either."
+ },
+ {
+   "id": 327,
+   "construction": "verb_phrase_ellipsis",
+   "example": "Jóhann will not pet the great white shark, but Elín will."
+ },
+ {
+   "id": 328,
+   "construction": "verb_phrase_ellipsis",
+   "example": "The guards politely asked the robbers to leave, but I don't think they will."
+ },
+ {
+   "id": 329,
+   "construction": "verb_phrase_ellipsis",
+   "example": "Játvarður did not want to try the cake, but his sister did."
+ },
+ {
+   "id": 330,
+   "construction": "topicalization_word_order",
+   "example": "Tomorrow my problems will be far away."
+ },
+ {
+   "id": 331,
+   "construction": "topicalization_word_order",
+   "example": "Now it looks as though my problems are here to stay."
+ },
+ {
+   "id": 332,
+   "construction": "topicalization_word_order",
+   "example": "Suddenly he's not availble."
+ },
+ {
+   "id": 333,
+   "construction": "topicalization_word_order",
+   "example": "Many times I've been alone and it has often been the case that I've cried."
+ },
+ {
+   "id": 334,
+   "construction": "topicalization_word_order",
+   "example": "Fortunately we don't have that problem anymore."
+ },
+ {
+   "id": 335,
+   "construction": "topicalization_word_order",
+   "example": "In the next chapter we will describe the problem in detail."
+ },
+ {
+   "id": 336,
+   "construction": "topicalization_word_order",
+   "example": "In order for the package to be delivered you will need to provide your home address."
+ },
+ {
+   "id": 337,
+   "construction": "topicalization_word_order",
+   "example": "In a post on social media the president complained about the new law."
+ },
+ {
+   "id": 338,
+   "construction": "topicalization_word_order",
+   "example": "For the time being we cannot approve your request."
+ },
+ {
+   "id": 339,
+   "construction": "topicalization_word_order",
+   "example": "Without a valid passport you cannot enter."
+ },
+ {
+   "id": 340,
+   "construction": "topicalization_word_order",
+   "example": "In some languages the verb is always in second position."
+ },
+ {
+   "id": 341,
+   "construction": "topicalization_word_order",
+   "example": "Unfortunately the old man passed away last Sunday."
+ },
+ {
+   "id": 342,
+   "construction": "topicalization_word_order",
+   "example": "Now you can take a nap."
+ },
+ {
+   "id": 343,
+   "construction": "topicalization_word_order",
+   "example": "By the end of the semester the student is expected to be able to explain linguistic terms in detail."
+ },
+ {
+   "id": 344,
+   "construction": "topicalization_word_order",
+   "example": "While Guðrún and Birna were away on vacation their car was stolen."
+ },
+ {
+   "id": 345,
+   "construction": "topicalization_word_order",
+   "example": "Besides technical difficulties the festival was a success."
+ }
+]
